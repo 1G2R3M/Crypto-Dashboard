@@ -5,11 +5,13 @@
 
 ### Content
 
-1. Introduction
-2. Features
-3. Technologies Used
-4. Getting Started
-5. Contribution
+1. [Introduction](https://github.com/1G2R3M/Crypto-Dashboard/edit/main/README.md#1-introduction)
+2. [Features](https://github.com/1G2R3M/Crypto-Dashboard/edit/main/README.md#2-features)
+3. [Technologies Used](https://github.com/1G2R3M/Crypto-Dashboard/edit/main/README.md#3-technology-used)
+4. [Getting Started](https://github.com/1G2R3M/Crypto-Dashboard#4-getting-started)
+5. [Contribution](https://github.com/1G2R3M/Crypto-Dashboard/edit/main/README.md#5-contribution)
+6. [NOTE](https://github.com/1G2R3M/Crypto-Dashboard/edit/main/README.md#6-note)
+7. [DISCLAIMER](https://github.com/1G2R3M/Crypto-Dashboard/edit/main/README.md#disclaimer)
 
 
 ## 1. Introduction
@@ -61,6 +63,32 @@ This project is a Cryptocurrency Dashboard built using React. The dashboard allo
 #### To get started with the project, follow these steps:
 
 1. Clone the repository to your local machine.
+
+     git clone https://github.com/1G2R3M/Crypto-Dashboard.git
+
+2. Install dependencies by running npm install.
+
+3. Start the development server by running 'npm start'.
+
+4. Open the application in your browser by navigating to 'http://localhost:3000'.
+
+## 5. Contribution
+
+#### Contributions to the project are welcome. If you'd like to contribute, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch with a descriptive name (git checkout -b my-new-feature).
+3. Commit your changes (git commit -am 'Add new feature').
+4. Push your branch to your fork (git push origin my-new-feature).
+5. Open a pull request.
+
+## 6. NOTE
+
+## This Capstone project is associated with Almabetter.
+
+## DISCLAIMER
+
+I don't own any the logos/images used in the project all belongs to their respected owners.
 
 
 
