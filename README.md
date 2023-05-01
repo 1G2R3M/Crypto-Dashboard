@@ -1,4 +1,5 @@
-![logo](https://user-images.githubusercontent.com/108121425/235415182-db5ee08d-6a42-4372-a929-441d89c3d448.png)
+![logo1](https://user-images.githubusercontent.com/108121425/235415451-5a7fa61e-b32b-49e6-a66d-0a947ccb26f1.png)
+
 Cryptocurrency Dashboard
 
 
